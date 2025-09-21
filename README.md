@@ -1,6 +1,6 @@
 # Hi, I'm Yusif 👋
-
-🎓 I'm a freshman Computer Science student at **Bilkent University**.  
+ⓘ I'm 17 years old, from Azerbaijan.
+🎓 I'm a freshman Computer Engineering student at **Bilkent University**.  
 💻 I enjoy learning programming, solving problems, and working on new projects.  
 🚀 Excited to explore software development and contribute to open-source in the future.  
 
